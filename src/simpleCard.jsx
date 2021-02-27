@@ -7,8 +7,6 @@ import CardContent from "@material-ui/core/CardContent";
 import Button from "@material-ui/core/Button";
 import Typography from "@material-ui/core/Typography";
 
-// this will be a axios call to get all the price data
-
 const useStyles = makeStyles({
   root: {
     minWidth: 275,
@@ -33,6 +31,7 @@ export default function SimpleCard() {
 
   const [coinPrice, setCoinPrice] = useState({ base: "BTC", amount: "50000" });
 
+  // this will be a axios call to get all the price data
   useEffect(() => {
     return axios
       .get("https://api.coinbase.com/v2/prices/BTC-USD/buy")
