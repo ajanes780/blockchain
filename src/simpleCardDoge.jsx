@@ -27,7 +27,7 @@ const useStyles = makeStyles({
 
 export default function SimpleCardDoge() {
   const classes = useStyles();
-  const bull = <span className={classes.bullet}>•</span>;
+  const bullet = <span className={classes.bullet}>•</span>;
 
   const [coinPrice, setCoinPrice] = useState({ base: "BTC", amount: "50000" });
 
