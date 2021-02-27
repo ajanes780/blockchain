@@ -20,7 +20,7 @@ function CoinBaseApi() {
   return (
     <div>
       <p>
-        What coin is this : {coinPrice.base} and what is the price:
+        What coin is this : {coinPrice.base} and what is the price: $
         {coinPrice.amount}
       </p>
     </div>
