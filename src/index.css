@@ -1,5 +1,5 @@
 body {
-  display: flex-box;
+  display: flex-box !important;
   flex-direction: row;
   background-color: rgba(162, 211, 250, 0.678);
 }

@@ -1,38 +1,38 @@
 # Why use our App
 
-  [ ] Easy access to market data.
-  [ ] All coins
-  [ ] Easy Funding
-  [ ] My Account Tracker
-  [ ] Automated re-balancing
-  [ ] Alerts
+[ ] Easy access to market data.
+[ ] All coins
+[ ] Easy Funding
+[ ] My Account Tracker
+[ ] Automated re-balancing
+[ ] Alerts
 
 # Database
 
-  [ ] historical data where can i get data in bulk
-  [ ] User info
+[ ] historical data where can i get data in bulk
+[ ] User info
 
 # Express server
 
-  [ ] Access historical data
+[ ] Access historical data
 
 # React Front end
 
-  [ ] websocket for continues updates -crypto.com https://docs.cryptowat.ch/websocket-api/
-  [ ] rest api for trades
-  [ ] User Dash board I found some modular components to use
-  [ ] chart with live data or historic prices
-  [ ] login / log out - use google Oauth
-  [ ] My Account Value Card
-  [ ] My Portfolio Chart Pie
+[ ] websocket for continues updates -crypto.com https://docs.cryptowat.ch/websocket-api/
+[ ] rest api for trades
+[ ] User Dash board I found some modular components to use
+[ ] chart with live data or historic prices
+[ ] login / log out - use google Oauth
+[ ] My Account Value Card
+[ ] My Portfolio Chart Pie
 
 # Good APi Web Socket Resources
 
-  bitFinx
-  https://docs.bitfinex.com/reference#rest-public-platform-status
-  https://api-pub.bitfinex.com/v2/ticker/tBTCUSD
-  returns an array with price would be easier to work with
+bitFinx
+https://docs.bitfinex.com/reference#rest-public-platform-status
+https://api-pub.bitfinex.com/v2/ticker/tBTCUSD
+returns an array with price would be easier to work with
 
-  Crypto.com
+Crypto.com
 
-  Kraken
+Kraken
