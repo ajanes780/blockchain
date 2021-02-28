@@ -1,20 +1,20 @@
 # Why use our App
 
 -Easy access to market data
--All coins ?
--Easy Funding ?
+-All coins
+-Easy Funding
 -My Account Tracker
--Automated re-balancing ?
+-Automated re-balancing
 -Alerts?
 
 # Database
 
-[ ] historical data - where can i get data in bulk ?
+[ ] historical data where can i get data in bulk
 [ ] User info
 
 # Express server
 
-[ ] Access historical data ??
+[ ] Access historical data
 [ ]
 [ ]
 
@@ -22,9 +22,9 @@
 
 [ ] websocket for continues updates -crypto.com ? https://docs.cryptowat.ch/websocket-api/
 [ ] rest api - for trades
-[ ] User Dash board - code from scratch or use templates ?
-[ ] chart with live data or historic prices ?
-[ ] login / log out - use google Oauth ?
+[ ] User Dash board - code from scratch or use templates
+[ ] chart with live data or historic prices
+[ ] login / log out - use google Oauth
 [ ] My Account Value
 [ ] My Portfolio Chart Pie
 
@@ -35,6 +35,6 @@
   https://api-pub.bitfinex.com/v2/ticker/tBTCUSD
   returns an array with price would be easier to work with
 
-~ Crypto.com
+- Crypto.com
 
--Kraken
+- Kraken
