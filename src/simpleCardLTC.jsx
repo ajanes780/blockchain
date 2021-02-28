@@ -25,7 +25,7 @@ const useStyles = makeStyles({
   },
 });
 
-export default function SimpleCardDoge() {
+export default function SimpleCardLTC() {
   const classes = useStyles();
   const bullet = <span className={classes.bullet}>•</span>;
 
