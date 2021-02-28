@@ -1,6 +1,6 @@
 # Why use our App
 
-[ ] Easy access to market data
+[ ] Easy access to market data.
 [ ] All coins
 [ ] Easy Funding
 [ ] My Account Tracker
