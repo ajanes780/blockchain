@@ -18,12 +18,12 @@
 
 # React Front end
 
-[ ] websocket for continues updates -crypto.com ? https://docs.cryptowat.ch/websocket-api/
+[ ] websocket for continues updates -crypto.com https://docs.cryptowat.ch/websocket-api/
 [ ] rest api for trades
 [ ] User Dash board I found some modular components to use
 [ ] chart with live data or historic prices
 [ ] login / log out - use google Oauth
-[ ] My Account Value
+[ ] My Account Value Card
 [ ] My Portfolio Chart Pie
 
 # Good APi Web Socket Resources
