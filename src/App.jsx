@@ -11,9 +11,12 @@ function App(props) {
   return (
     <div className="App">
       <PrimarySearchAppBar />
-      <SimpleCard />
-      <SimpleCardEth />
-      <SimpleCardLTC />
+      <br></br>
+      <div>
+        <SimpleCard />
+        <SimpleCardEth />
+        <SimpleCardLTC />
+      </div>
     </div>
   );
 }
