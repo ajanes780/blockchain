@@ -5,15 +5,16 @@ import SimpleCardEth from "./simplecardETH";
 import SimpleCardLTC from "./simpleCardLTC";
 import PrimarySearchAppBar from "./navBar";
 import DataGridDemo from "./datagrid";
-// i want to render the coin prices here  maybe in a LIST first
+import CssBaseline from "@material-ui/core/CssBaseline";
+import MyChart from "./chart";
 function App(props) {
-  console.log("props", props);
-
   return (
     <div className="App">
+      <CssBaseline />
       <PrimarySearchAppBar />
       <DataGridDemo />
       <br></br>
+      <MyChart />
       <div>
         <SimpleCard />
         <SimpleCardEth />

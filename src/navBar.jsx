@@ -174,7 +174,7 @@ export default function PrimarySearchAppBar() {
             <MenuIcon />
           </IconButton>
           <Typography className={classes.title} variant="h6" noWrap>
-            Block Chain
+            Block Chain Dashboard
           </Typography>
           <div className={classes.search}>
             <div className={classes.searchIcon}>
